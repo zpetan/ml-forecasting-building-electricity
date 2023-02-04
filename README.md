@@ -12,17 +12,10 @@
 
 **Source Code**: [https://github.com/zpetan@protonmail.com/ml-forecasting-building-electricity](https://github.com/zpetan@protonmail.com/ml-forecasting-building-electricity)
 
-**PyPI**: [https://pypi.org/project/ml-forecasting-building-electricity/](https://pypi.org/project/ml-forecasting-building-electricity/)
-
 ---
 
 Forecasting of building electricity demands using Machine Learning
 
-## Installation
-
-```sh
-pip install ml-forecasting-building-electricity
-```
 
 ## Development
 
