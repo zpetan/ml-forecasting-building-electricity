@@ -3,7 +3,7 @@ name = "ml-forecasting-building-electricity"
 version = "0.0.1"
 description = "Forecasting of building electricity demands using Machine Learning"
 authors = [
-    "Pepe Tan <zpetan@protonmail.com>",
+    "Pepe Tan",
 ]
 license = "MIT"
 readme = "README.md"
