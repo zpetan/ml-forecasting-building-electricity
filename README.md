@@ -1,8 +1,6 @@
 # Building Electriity Demand Forecasting
 
-[![PyPI](https://img.shields.io/pypi/v/ml-forecasting-building-electricity?style=flat-square)](https://pypi.python.org/pypi/ml-forecasting-building-electricity/)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ml-forecasting-building-electricity?style=flat-square)](https://pypi.python.org/pypi/ml-forecasting-building-electricity/)
-[![PyPI - License](https://img.shields.io/pypi/l/ml-forecasting-building-electricity?style=flat-square)](https://pypi.python.org/pypi/ml-forecasting-building-electricity/)
+
 [![Coookiecutter - Wolt](https://img.shields.io/badge/cookiecutter-Wolt-00c2e8?style=flat-square&logo=cookiecutter&logoColor=D4AA00&link=https://github.com/woltapp/wolt-python-package-cookiecutter)](https://github.com/woltapp/wolt-python-package-cookiecutter)
 
 
