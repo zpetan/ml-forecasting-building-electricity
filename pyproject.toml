@@ -55,6 +55,8 @@ pytest-cov = "*"
 python-kacl = "*"
 pyupgrade = "*"
 tryceratops = "*"
+toml = "*"
+types-toml = "*"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
